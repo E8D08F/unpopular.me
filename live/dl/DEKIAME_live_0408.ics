@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Tokyo
+LAST-MODIFIED:20201011T015911Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Tokyo
+X-LIC-LOCATION:Asia/Tokyo
+BEGIN:STANDARD
+TZNAME:JST
+TZOFFSETFROM:+0900
+TZOFFSETTO:+0900
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220406T033645Z
+UID:1649216183940-22860@ical.marudot.com
+DTSTART;TZID=Asia/Tokyo:20220408T210000
+DTEND;TZID=Asia/Tokyo:20220408T220000
+SUMMARY:80% 壓扁排字嘗試
+URL:https://akegaki.de
+DESCRIPTION:週五晚八到九點（GMT+8）在 Telegram Channel https://t.me/DENKIAME live 排印一篇文章。\n\n- InDesign；\n- 一點明體： https://github.com/ichitenfont/I.Ming ；\n- 80% 壓扁；\n- 生造字、酌情合字（Glpyhs）。
+END:VEVENT
+END:VCALENDAR
